@@ -1,6 +1,6 @@
 {
   "name": "mdns-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/mdns-js/node-mdns-js.git"
@@ -24,7 +24,7 @@
     "code": "^5.1.2",
     "eslint": "^5.10.0",
     "joi": "^14.3.0",
-    "lab": "^18.0.0"
+    "lab": "^18.0.2"
   },
   "scripts": {
     "pretest": "node ./bin/testversion.js",
