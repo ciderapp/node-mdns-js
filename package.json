@@ -17,7 +17,7 @@
   "main": "index.js",
   "dependencies": {
     "debug": "^4.1.1",
-    "dns-js": "git+https://github.com/bitfocus/node-dns-js.git",
+    "dns-js": "git+https://github.com/ciderapp/node-dns-js.git",
     "semver": "^7.2.3"
   },
   "devDependencies": {
